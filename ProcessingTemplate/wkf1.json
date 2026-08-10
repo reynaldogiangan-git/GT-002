@@ -1,0 +1,24 @@
+{
+  "owner": "reynaldogiangan@gmail.com",
+  "pendingBy": "reynaldogiangan@gmail.com",
+  "pendingDate": "2026-08-07T14:32:41.084",
+  "priority": "0",
+  "processingType": "WORKFLOW",
+  "statisticMethod": "AVERAGE",
+  "statisticPeriod": "MONTH",
+  "workflowType": "STANDARD",
+  "customFieldValues": {
+  },
+  "items": 
+  [
+    {
+      "name": "wait15mins",
+      "processingTemplate": "wait15mins",
+      "processingType": "TASK",
+      "serverNodeType": "INTERNAL",
+      "statisticMethod": "AVERAGE",
+      "statisticPeriod": "MONTH",
+      "taskType": "WAIT"
+    }
+  ]
+}
