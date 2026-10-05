@@ -19,6 +19,15 @@
       "statisticMethod": "AVERAGE",
       "statisticPeriod": "MONTH",
       "taskType": "WAIT"
+    },
+    {
+      "name": "addedwait5mins",
+      "processingTemplate": "addedwait5mins",
+      "processingType": "TASK",
+      "serverNodeType": "INTERNAL",
+      "statisticMethod": "AVERAGE",
+      "statisticPeriod": "MONTH",
+      "taskType": "WAIT"
     }
   ]
 }
